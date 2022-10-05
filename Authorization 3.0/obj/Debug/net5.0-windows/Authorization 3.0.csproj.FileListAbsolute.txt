@@ -1,0 +1,80 @@
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.exe
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.deps.json
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.runtimeconfig.json
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.runtimeconfig.dev.json
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.dll
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\ref\Authorization 3.0.dll
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.pdb
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.csproj.AssemblyReference.cache
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\AuthorizationWindow.g.cs
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserListWindow.g.cs
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\App.g.cs
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0_MarkupCompile.cache
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0_MarkupCompile.lref
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\AuthorizationWindow.baml
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserListWindow.baml
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.g.resources
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.AssemblyInfoInputs.cache
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.AssemblyInfo.cs
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.csproj.CoreCompileInputs.cache
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.dll
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\ref\Authorization 3.0.dll
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.pdb
+D:\Студент\Трейтий курс\IS-33\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.genruntimeconfig.cache
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.exe
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.deps.json
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.runtimeconfig.json
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.runtimeconfig.dev.json
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.dll
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.pdb
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.csproj.AssemblyReference.cache
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\AuthorizationWindow.g.cs
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserListWindow.g.cs
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0_MarkupCompile.cache
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0_MarkupCompile.lref
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\AuthorizationWindow.baml
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserListWindow.baml
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.g.resources
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.AssemblyInfoInputs.cache
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.AssemblyInfo.cs
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.csproj.CoreCompileInputs.cache
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.dll
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\refint\Authorization 3.0.dll
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.pdb
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.genruntimeconfig.cache
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\ref\Authorization 3.0.dll
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\ManagerWindow.g.cs
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserWindow.g.cs
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\ManagerWindow.baml
+C:\Users\Boss\YandexDisk\Pogorelov\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserWindow.baml
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.exe
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.deps.json
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.runtimeconfig.json
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.runtimeconfig.dev.json
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.dll
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\bin\Debug\net5.0-windows\Authorization 3.0.pdb
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.csproj.AssemblyReference.cache
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\AuthorizationWindow.g.cs
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\ManagerWindow.g.cs
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserListWindow.g.cs
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserWindow.g.cs
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\App.g.cs
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0_MarkupCompile.cache
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0_MarkupCompile.lref
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\AuthorizationWindow.baml
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\ManagerWindow.baml
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserListWindow.baml
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\View\UserWindow.baml
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.g.resources
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.AssemblyInfoInputs.cache
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.AssemblyInfo.cs
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.csproj.CoreCompileInputs.cache
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.dll
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\refint\Authorization 3.0.dll
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.pdb
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.genruntimeconfig.cache
+E:\Praktiks\Pogorelov\Задание 3\Authorization 3.0\Authorization 3.0\obj\Debug\net5.0-windows\ref\Authorization 3.0.dll
